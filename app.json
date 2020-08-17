@@ -1,0 +1,26 @@
+{
+  "id": "0edc88a1-d23a-41b6-b673-fdd93cc0582d",
+  "name": "Seminar 2",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Seminar2.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
